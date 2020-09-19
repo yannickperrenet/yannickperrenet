@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yannickperrenet/yannickperrenet/master/emoji.png">
+  <img src="https://raw.githubusercontent.com/yannickperrenet/yannickperrenet/master/emoji.png" width="50%">
 </p>
