@@ -21,4 +21,4 @@ My name is **Yannick Perrenet** and I'm a **Co-Founder** of [Orchest](https://or
 
 I'm interested in all things software engineering!
 
-[<span class="emoji">🚀 &nbsp;</span>LinkedIn](https://www.linkedin.com/in/yannickperrenet/)
+<span class="emoji">🚀 &nbsp;</span>[LinkedIn](https://www.linkedin.com/in/yannickperrenet/)
