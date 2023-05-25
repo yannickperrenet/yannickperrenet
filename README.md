@@ -15,10 +15,4 @@ Here are some ideas to get you started:
 </p>
 -->
 
-### Hi Internet 🙋‍♂️
-
-My name is **Yannick Perrenet** and I'm a **Co-Founder** of [Orchest](https://orchest.io). 
-
-I'm interested in all things software engineering!
-
-<span class="emoji">🚀 &nbsp;</span>[LinkedIn](https://www.linkedin.com/in/yannickperrenet/)
+### Teamwork makes the dream work 🚀
